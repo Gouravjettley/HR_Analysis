@@ -4,9 +4,12 @@ This project focuses on analyzing employee attrition patterns using HR data and 
 
 🔍 Project Overview
 
-1.The dataset contains detailed employee information such as demographics, job roles, compensation, work-life balance, performance metrics, and tenure. Using this data, the project explores:
+The dataset contains detailed employee information such as demographics, job roles, compensation, work-life balance, performance metrics, and tenure. Using this data, the project explores:
+
 2.Attrition trends across departments, age groups, and job roles
+
 3.The impact of salary, overtime, job satisfaction, and work-life balance on attrition
+
 4.Relationships between experience, promotions, and employee retention
 
 📈 Dashboard Highlights
